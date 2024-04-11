@@ -1,1 +1,3 @@
-export default function selectedContact({ contact }) 
+export default function selectedContact({ contact }) {
+    
+}
